@@ -1,0 +1,185 @@
+.External-link{
+    color: white;
+}
+.Nav-1{
+    position: fixed;
+}
+.Navbar-Image{
+    width: 40px;
+    height: 40px;
+}
+.Navbar-list{
+list-style: none;
+display: inline-block;
+padding: 20px;
+margin-top: -20px;
+}
+.Navbar-list:hover{
+    background-color: #04AA6D;
+    color: white;
+}
+.Down-arrow-icon{
+    width: 10px;
+    height: 10px;
+    color: white;
+}
+.Down-arrow-icon:hover{
+background-color: #04AA6D;
+}
+.Navbar-link{
+    color: black;
+    text-decoration: none;
+}
+
+.Navbar-list-Parent{
+    margin-left: 20px;
+    margin-top: -32px;
+}
+.Search{
+    border-radius: 30px;
+    margin-left: 568px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin-top: -1%;
+}
+.Search-icon{
+    height: 20px;
+    width: 20px;
+    margin-left: -35px;
+    margin-bottom: -7px;
+
+}
+.Search-span{
+    margin-top: -60px;
+}
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif   ;
+}
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  .Navbar-div{
+    display: inline-block;
+  }
+  .Navbar-div:hover{
+background-color: #04AA6D;
+border: none;
+ }
+ .Searchbox:focus{
+     outline: 4px solid #04AA6D;
+ }
+
+  
+  .dark-mode {
+    background-color: red;
+  }
+  .Light-Dark{
+width: 20px;
+height: 20px;
+margin-left: 760px;
+}
+.Colors{
+margin-top: -30px;
+}
+.space{
+    margin-left: 800px;
+    margin-top: -19px;
+    color: black;
+}
+.space2{
+    margin-left: 900px;
+    margin-top: -19px;
+    color: black; 
+}
+.Spaces{
+    color: #9763F6;
+}
+.Sign-up{
+    background-color: #04AA6D;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    margin-left: 1050px;
+}
+.Signup-container{
+    margin-top: -28px;
+}
+.Login{
+    background-color: #D9EEE1;
+    z-index: -1;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 30px;
+    color: black;
+    position: absolute;
+    cursor: pointer;
+    border: none;
+    margin-left: 1120px;
+}
+.Login:hover{
+background-color: #04AA6D;
+}
+.Login-container{
+    margin-top: -45px;
+}
+.Nav-2{
+    margin-top: 50px;
+    width: 1000%;
+}
+.Nav2list>li{
+    list-style: none;
+    display: inline-block;
+    background-color: #282A35;
+    color: white;
+    margin-left: -5px;
+    padding: 10px;
+    cursor: pointer;
+}
+.Nav2list{
+    margin-left: -45px;
+}
+.Nav2list>li:hover{
+    background-color: black;
+}
+aside{
+    padding-left: 30px;
+    padding-top: 30px;
+    background-color: #E7E9EB;
+    width: 20%;
+    margin-top: -15px;
+    overflow-y: scroll;
+    height: 450px;
+    margin-left: -5px;
+    position: fixed;
+}
+.CSS-heading{
+    font-size: 30px;
+}
+.CSS{
+    margin-left: -50px;
+padding-left: 50px;
+cursor: pointer;
+}
+.CSS:hover{
+    background-color: rgb(186, 184, 184);
+}
+section{
+    background-color: #04AA6D;
+    margin-left: 310px;
+    color: white;
+    padding: 15px;
+    padding-left: 45px;
+    margin-top: -16px;
+    text-align: justify;
+}
